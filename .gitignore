@@ -10,3 +10,7 @@ notebooks/.ipynb_checkpoints/
 *.onnx
 .idea/
 .vscode/
+# keep empty dirs
+!data/.gitkeep
+!runs/.gitkeep
+!notebooks/.gitkeep
